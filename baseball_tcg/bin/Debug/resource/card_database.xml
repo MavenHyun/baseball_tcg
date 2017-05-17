@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RootElement>
+	<Pitch pname="포심" id="0" power="3"/>
+	<Pitch pname="커터" id="1" power="2"/>
+	<Pitch pname="스플리터" id="2" power="2"/>
+	<Pitch pname="투심" id="3" power="2"/>
+	<Pitch pname="슬라이더" id="4" power="1"/>
+	<Pitch pname="커브" id="5" power="1"/>
+	<Pitch pname="체인지업" id="6" power="1"/>
+	<Pitch pname="싱커" id="7" power="1"/>
+	<Pitch pname="포크" id="8" power="1"/>
+	<Pitch pname="너클" id="9" power="1"/>
+	<Fielder pname="최주환" team="DO" id="20160107" pos="45" bats="1" con="3" bp="5" def="7"/>
+	<Fielder pname="류지혁" team="DO" id="20160108" pos="5643" bats="1" con="3" bp="5" def="8"/>
+	<Pitcher pname="윤명준" team="DO" id="20160111" throws="2" arsenal="0245" pp="5" stamina="30" />
+	<Fielder pname="허경민" team="DO" id="20160113" pos="546" bats="2" con="3" bp="5" def="7"/>
+	<Fielder pname="국해성" team="DO" id="20160115" pos="73" bats="3" con="3" bp="5" def="7"/>
+	<Fielder pname="오재원" team="DO" id="20160124" pos="4" bats="1" con="3" bp="5" def="6"/>
+	<Fielder pname="양의지" team="DO" id="20160125" pos="2" bats="2" con="2" bp="8" def="8"/>
+	<Pitcher pname="보우덴" team="DO" id="20160126" throws="2" arsenal="02456" pp="5" stamina="100"/>
+	<Pitcher pname="홍상삼" team="DO" id="20160127" throws="2" arsenal="0568" pp="4" stamina="30"/>
+	<Pitcher pname="장원준" team="DO" id="20160128" throws="1" arsenal="04567" pp="5" stamina="100"/>
+	<Pitcher pname="유희관" team="DO" id="20160129" throws="1" arsenal="04567" pp="3" stamina="100"/>
+	<Fielder pname="정수빈" team="DO" id="20160131" pos="879" bats="1" con="2" bp="5" def="7"/>
+	<Fielder pname="김재환" team="DO" id="20160132" pos="73" bats="1" con="3" bp="9" def="7"/>
+	<Fielder pname="오재일" team="DO" id="20160136" pos="3" bats="1" con="3" bp="9" def="8"/>
+	<Fielder pname="박건우" team="DO" id="20160137" pos="789" bats="2" con="3" bp="7" def="7"/>
+	<Pitcher pname="니퍼트" team="DO" id="20160140" throws="2" arsenal="0456" pp="5"  stamina="100"/>
+	<Pitcher pname="정재훈" team="DO" id="20160141" throws="2" arsenal="0124568" pp="5" stamina="30"/>
+	<Fielder pname="에반스" team="DO" id="20160144" pos="3" bats="2" con="3" bp="7" def="7"/>
+	<Pitcher pname="이용찬" team="DO" id="20160145" throws="2" arsenal="058" pp="3" stamina="30"/>
+	<Fielder pname="박세혁" team="DO" id="20160147" pos="2" bats="1" con="2" bp="5" def="8"/>
+	<Pitcher pname="이현승" team="DO" id="20160148" throws="1" arsenal="01456" pp="3" stamina="30"/>
+	<Fielder pname="민병헌" team="DO" id="20160149" pos="987" bats="2" con="3" bp="5" def="9"/>
+	<Fielder pname="김재호" team="DO" id="20160152" pos="6" bats="2" con="3" bp="5" def="7"/>
+</RootElement>

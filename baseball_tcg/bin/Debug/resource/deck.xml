@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RootElement>
+	<MDeck id="0" num="23"/>
+	<MDeck id="1" num="3"/>
+	<MDeck id="2" num="3"/>
+	<MDeck id="3" num="0"/>
+	<MDeck id="4" num="8"/>
+	<MDeck id="5" num="4"/>
+	<MDeck id="6" num="6"/>
+	<MDeck id="7" num="0"/>
+	<MDeck id="8" num="3"/>
+	<MDeck id="9" num="0"/>
+	<PDeck id="20160149" num="1" pos="9"/>
+	<PDeck id="20160124" num="2" pos="4"/>
+	<PDeck id="20160144" num="3" pos="0"/>
+	<PDeck id="20160132" num="4" pos="7"/>
+	<PDeck id="20160125" num="5" pos="2"/>
+	<PDeck id="20160137" num="6" pos="8"/>
+	<PDeck id="20160136" num="7" pos="3"/>
+	<PDeck id="20160113" num="8" pos="5"/>
+	<PDeck id="20160152" num="9" pos="6"/>
+	<PDeck id="20160140" num="0" pos="1"/>
+	<BDeck id="20160107"/>
+	<BDeck id="20160108"/>
+	<BDeck id="20160111"/>
+	<BDeck id="20160115"/>
+	<BDeck id="20160127"/>
+	<BDeck id="20160131"/>
+	<BDeck id="20160141"/>
+	<BDeck id="20160145"/>
+	<BDeck id="20160147"/>
+	<BDeck id="20160148"/>
+</RootElement>
